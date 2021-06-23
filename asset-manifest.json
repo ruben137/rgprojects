@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/rgprojects/static/css/main.7920155c.chunk.css",
-    "main.js": "/rgprojects/static/js/main.658f755b.chunk.js",
-    "main.js.map": "/rgprojects/static/js/main.658f755b.chunk.js.map",
-    "runtime-main.js": "/rgprojects/static/js/runtime-main.717a898c.js",
-    "runtime-main.js.map": "/rgprojects/static/js/runtime-main.717a898c.js.map",
-    "static/css/2.d45d6843.chunk.css": "/rgprojects/static/css/2.d45d6843.chunk.css",
-    "static/js/2.5a3406f5.chunk.js": "/rgprojects/static/js/2.5a3406f5.chunk.js",
-    "static/js/2.5a3406f5.chunk.js.map": "/rgprojects/static/js/2.5a3406f5.chunk.js.map",
-    "static/js/3.31334466.chunk.js": "/rgprojects/static/js/3.31334466.chunk.js",
-    "static/js/3.31334466.chunk.js.map": "/rgprojects/static/js/3.31334466.chunk.js.map",
+    "main.css": "/rgprojects/static/css/main.bbdd00e5.chunk.css",
+    "main.js": "/rgprojects/static/js/main.956373d6.chunk.js",
+    "main.js.map": "/rgprojects/static/js/main.956373d6.chunk.js.map",
+    "runtime-main.js": "/rgprojects/static/js/runtime-main.a7c4b1bf.js",
+    "runtime-main.js.map": "/rgprojects/static/js/runtime-main.a7c4b1bf.js.map",
+    "static/js/2.016fc257.chunk.js": "/rgprojects/static/js/2.016fc257.chunk.js",
+    "static/js/2.016fc257.chunk.js.map": "/rgprojects/static/js/2.016fc257.chunk.js.map",
+    "static/js/3.0989b077.chunk.js": "/rgprojects/static/js/3.0989b077.chunk.js",
+    "static/js/3.0989b077.chunk.js.map": "/rgprojects/static/js/3.0989b077.chunk.js.map",
     "index.html": "/rgprojects/index.html",
-    "static/css/2.d45d6843.chunk.css.map": "/rgprojects/static/css/2.d45d6843.chunk.css.map",
-    "static/css/main.7920155c.chunk.css.map": "/rgprojects/static/css/main.7920155c.chunk.css.map",
-    "static/js/2.5a3406f5.chunk.js.LICENSE.txt": "/rgprojects/static/js/2.5a3406f5.chunk.js.LICENSE.txt",
+    "static/css/main.bbdd00e5.chunk.css.map": "/rgprojects/static/css/main.bbdd00e5.chunk.css.map",
+    "static/js/2.016fc257.chunk.js.LICENSE.txt": "/rgprojects/static/js/2.016fc257.chunk.js.LICENSE.txt",
     "static/media/ChatApp.b228baf4.JPG": "/rgprojects/static/media/ChatApp.b228baf4.JPG",
     "static/media/e-commerce.9593b2ff.JPG": "/rgprojects/static/media/e-commerce.9593b2ff.JPG",
     "static/media/firebase.8ee1bbf4.png": "/rgprojects/static/media/firebase.8ee1bbf4.png",
@@ -28,10 +26,9 @@
     "static/media/yo.b45df6e6.png": "/rgprojects/static/media/yo.b45df6e6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.717a898c.js",
-    "static/css/2.d45d6843.chunk.css",
-    "static/js/2.5a3406f5.chunk.js",
-    "static/css/main.7920155c.chunk.css",
-    "static/js/main.658f755b.chunk.js"
+    "static/js/runtime-main.a7c4b1bf.js",
+    "static/js/2.016fc257.chunk.js",
+    "static/css/main.bbdd00e5.chunk.css",
+    "static/js/main.956373d6.chunk.js"
   ]
 }

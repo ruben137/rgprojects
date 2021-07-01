@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rgprojects/static/css/main.4453c796.chunk.css",
-    "main.js": "/rgprojects/static/js/main.cc45135c.chunk.js",
-    "main.js.map": "/rgprojects/static/js/main.cc45135c.chunk.js.map",
+    "main.js": "/rgprojects/static/js/main.bb7b8a15.chunk.js",
+    "main.js.map": "/rgprojects/static/js/main.bb7b8a15.chunk.js.map",
     "runtime-main.js": "/rgprojects/static/js/runtime-main.a7c4b1bf.js",
     "runtime-main.js.map": "/rgprojects/static/js/runtime-main.a7c4b1bf.js.map",
     "static/js/2.49a284fb.chunk.js": "/rgprojects/static/js/2.49a284fb.chunk.js",
@@ -13,12 +13,12 @@
     "static/css/main.4453c796.chunk.css.map": "/rgprojects/static/css/main.4453c796.chunk.css.map",
     "static/js/2.49a284fb.chunk.js.LICENSE.txt": "/rgprojects/static/js/2.49a284fb.chunk.js.LICENSE.txt",
     "static/media/ChatApp.b228baf4.JPG": "/rgprojects/static/media/ChatApp.b228baf4.JPG",
-    "static/media/e-commerce.9593b2ff.JPG": "/rgprojects/static/media/e-commerce.9593b2ff.JPG",
     "static/media/firebase.8ee1bbf4.png": "/rgprojects/static/media/firebase.8ee1bbf4.png",
     "static/media/fotografia.d2059b9d.JPG": "/rgprojects/static/media/fotografia.d2059b9d.JPG",
     "static/media/git.a54d3fa4.png": "/rgprojects/static/media/git.a54d3fa4.png",
     "static/media/javascript.dafbcd7f.png": "/rgprojects/static/media/javascript.dafbcd7f.png",
     "static/media/nodejs.efa9c0b4.png": "/rgprojects/static/media/nodejs.efa9c0b4.png",
+    "static/media/piccommerce.cfa2d17e.JPG": "/rgprojects/static/media/piccommerce.cfa2d17e.JPG",
     "static/media/pm.5685d1d8.jpg": "/rgprojects/static/media/pm.5685d1d8.jpg",
     "static/media/react.b651ed8f.png": "/rgprojects/static/media/react.b651ed8f.png",
     "static/media/speedtimer.b2e7cf60.JPG": "/rgprojects/static/media/speedtimer.b2e7cf60.JPG",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.a7c4b1bf.js",
     "static/js/2.49a284fb.chunk.js",
     "static/css/main.4453c796.chunk.css",
-    "static/js/main.cc45135c.chunk.js"
+    "static/js/main.bb7b8a15.chunk.js"
   ]
 }
